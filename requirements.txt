@@ -1,0 +1,4 @@
+Flask==3.0.3
+pandas==2.2.1
+google-generative-ai==0.7.0
+flask-cors==4.0.1
